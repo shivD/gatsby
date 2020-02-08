@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{PQev:function(e,n,t){"use strict";t.r(n);t("f3/d");var a=t("q1tI"),r=t.n(a),o=t("Bl7J"),c=t("vrFN");n.default=function(e){var n=e.pageContext.dog;return r.a.createElement(o.a,null,r.a.createElement(c.a,{title:n.name}),n.name," - ",n.breed)}}}]);
+//# sourceMappingURL=component---src-templates-dog-template-js-e3c4fa0bed30237284ca.js.map
